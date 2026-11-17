@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" fill="none" width="100%" height="100%">
+  <path d="M 36 6 C 52.5 6, 66 19.5, 66 36 C 66 52.5, 52.5 66, 36 66 C 19.5 66, 6 52.5, 6 36 C 6 19.5, 19.5 6, 36 6 Z" 
+        stroke="#F7F4EE" stroke-width="2.6" stroke-linecap="round" fill="none" />
+  <path d="M 36 14 C 48.1 14, 58 23.9, 58 36 C 58 48.1, 48.1 58, 36 58 C 23.9 58, 14 48.1, 14 36 C 14 23.9, 23.9 14, 36 14 Z" 
+        stroke="#DED7CA" stroke-width="2.2" stroke-dasharray="3 2" stroke-linecap="round" fill="none" opacity="0.85" />
+  <path d="M 36 22 C 43.7 22, 50 28.3, 50 36 C 50 43.7, 43.7 50, 36 50 C 28.3 50, 22 43.7, 22 36 C 22 28.3, 28.3 22, 36 22 Z" 
+        stroke="#F7F4EE" stroke-width="2.2" stroke-linecap="round" fill="none" />
+  <circle cx="36" cy="36" r="7" stroke="#DED7CA" stroke-width="2" fill="#F7F4EE" fill-opacity="0.15" />
+  <circle cx="36" cy="36" r="3.2" fill="#F7F4EE" />
+  <line x1="36" y1="6" x2="36" y2="10" stroke="#DED7CA" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="66" y1="36" x2="62" y2="36" stroke="#DED7CA" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="36" y1="66" x2="36" y2="62" stroke="#DED7CA" stroke-width="1.8" stroke-linecap="round" />
+  <line x1="6" y1="36" x2="10" y2="36" stroke="#DED7CA" stroke-width="1.8" stroke-linecap="round" />
+</svg>
